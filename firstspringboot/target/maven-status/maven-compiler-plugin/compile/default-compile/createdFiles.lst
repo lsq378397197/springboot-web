@@ -1,0 +1,14 @@
+com\lsq\exception\GirlException.class
+com\lsq\domain\Girl.class
+com\lsq\FirstspringbootApplication.class
+com\lsq\controller\HelloController.class
+com\lsq\utils\RequestUtil.class
+com\lsq\repository\GirlRep.class
+META-INF\spring-configuration-metadata.json
+com\lsq\properties\GirlProperties.class
+com\lsq\aspect\HttpAspect.class
+com\lsq\enums\ResultEnum.class
+com\lsq\service\GirlService.class
+com\lsq\handler\ExceptionHandle.class
+com\lsq\domain\Result.class
+com\lsq\controller\GirlController.class

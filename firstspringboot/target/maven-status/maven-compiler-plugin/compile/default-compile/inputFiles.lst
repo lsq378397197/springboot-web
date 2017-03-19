@@ -1,0 +1,13 @@
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\service\GirlService.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\repository\GirlRep.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\utils\RequestUtil.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\enums\ResultEnum.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\exception\GirlException.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\aspect\HttpAspect.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\FirstspringbootApplication.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\handler\ExceptionHandle.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\controller\GirlController.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\controller\HelloController.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\domain\Girl.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\domain\Result.java
+D:\program\idea_workspace\firstspringboot\src\main\java\com\lsq\properties\GirlProperties.java

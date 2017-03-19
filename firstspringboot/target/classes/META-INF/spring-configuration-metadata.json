@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.lsq.properties.GirlProperties",
+      "name": "girl",
+      "type": "com.lsq.properties.GirlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.lsq.properties.GirlProperties",
+      "defaultValue": 0,
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.lsq.properties.GirlProperties",
+      "name": "girl.cup-size",
+      "type": "java.lang.String"
+    }
+  ]
+}
